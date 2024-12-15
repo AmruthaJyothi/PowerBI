@@ -1,2 +1,2 @@
 # PowerBI
-projects in PowerBI
+projects in Power BI
