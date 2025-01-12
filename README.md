@@ -7,7 +7,7 @@ The dataset of a store, which has branches all over the world. The stakeholders 
 2. corrected the headers
 3. Added three new columns , first column (days to ship) orderdate - shipdate, splitted fullname to firstname and lastname
 
- #Second Assignment : Data Visualization- PowerBI
+ # Second Assignment : Data Visualization- PowerBI
 Here is the dataset of a store(Global store data set), which has branches all over the world. 
 The stakeholders require the detailed report on their sale transaction. 
 Segment the visuals using country, region, market Analyze the data by visualizing the percentage of shipping based on ship mode. 
